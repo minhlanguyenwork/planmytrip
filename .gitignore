@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.adal
+*.agents
+*.bob
+*.augment
+*.claude
+*.codebuddy
+*.commandcode
+*.continue
+*.cortex
+*.crush
+*.factory
+*.goose
+*.iflow
+*.junie
+*.kilocode
+*.kiro
+*.kode
+*.mcpjam
+*.mux
+*.neovate
+*.openhands/skills
+*.pi
+*.pochi
+*.qoder
+*.qwen
+*.roo
+*.trae
+*.vibe
+*.windsurf
+*.zencoder
+*.openhands
+*.firebase
